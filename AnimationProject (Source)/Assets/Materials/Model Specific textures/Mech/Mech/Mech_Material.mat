@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mech_Material
+  m_Shader: {fileID: 4800000, guid: f94533c237f74c043ad7607050c4a79a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3C5CC97E:
+        m_Texture: {fileID: 2800000, guid: 6a6d0dab780642d44b556de531f43af4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_60B7AAEB:
+        m_Texture: {fileID: 2800000, guid: 6003b63bf75bac44eb5f88e36fb1612e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_869D0645:
+        m_Texture: {fileID: 2800000, guid: a13be5f9a062d6b46be2c2c2502781ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_86BA6528:
+        m_Texture: {fileID: 2800000, guid: f3787c1b27b6777498e7c821f237a450, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8BEA5507:
+        m_Texture: {fileID: 2800000, guid: 00eb55cd3081d46489a35f83d940cc9e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AAD4F709:
+        m_Texture: {fileID: 2800000, guid: 63181054dc57d2a41b6e3ff2e2e40f2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F871B31B:
+        m_Texture: {fileID: 2800000, guid: d47902fd51546ad4d8b1cf49378421d1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2A3F096B: 0.03
+    - Vector1_3C96C21A: 200
+    - Vector1_6D796076: 0.02
+    - Vector1_C002E064: 1
+    - Vector1_F9505E1A: -1
+    - Vector1_F9DD169F: 0.787
+    - _Health_Level: -1
+    m_Colors:
+    - Color_33059D4A: {r: 7.999999, g: 2.297573, b: 0, a: 0}
+    - Color_698C3D7E: {r: 1, g: 0, b: 0, a: 1}
+    - Color_6D0052DF: {r: 1.9999998, g: 0, b: 0, a: 0}
+    - Color_8E5D2085: {r: 0, g: 1.0592737, b: 1.0204521, a: 0}
+    - Color_C812449D: {r: 0, g: 1, b: 0, a: 1}
+    - Color_FEA0B2D3: {r: 0, g: 0, b: 1, a: 1}
+    - _Primary_Colour: {r: 1, g: 0.26068217, b: 0.11792451, a: 1}
+    - _Secondary_Colour: {r: 0.764151, g: 0.764151, b: 0.764151, a: 1}
+    - _Tertiary_Colour: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 1}

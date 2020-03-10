@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: 5c430c3549c8b084f8bfdc5d0242b951
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm_left
+    100002: arm_pivot_left
+    100004: arm_pivot_right
+    100006: arm_right
+    100008: arm_swing_left
+    100010: arm_swing_right
+    100012: booster_left
+    100014: booster_left 1
+    100016: booster_pack_left
+    100018: booster_pack_right
+    100020: booster_right
+    100022: booster_right 1
+    100024: core
+    100026: CTRL
+    100028: CTRL_foot_left
+    100030: CTRL_foot_right
+    100032: CTRL_hull
+    100034: CTRL_knee_vector_left
+    100036: CTRL_knee_vector_right
+    100038: CTRL_leg_seivel_right
+    100040: CTRL_leg_swivel_left
+    100042: CTRL_root
+    100044: foot_left
+    100046: foot_left 1
+    100048: foot_piston_rod_left
+    100050: foot_piston_rod_right
+    100052: foot_piston_sleeve_left
+    100054: foot_piston_sleeve_right
+    100056: foot_right
+    100058: foot_right 1
+    100060: head_left
+    100062: heel_left
+    100064: heel_left 1
+    100066: heel_right
+    100068: heel_right 1
+    100070: hip
+    100072: hip 1
+    100074: hull
+    100076: hull 1
+    100078: ik_leg_left
+    100080: ik_leg_right
+    100082: JNT
+    100084: JNT_thruster1
+    100086: JNT_thruster1 1
+    100088: JNT_thruster1 2
+    100090: JNT_thruster1 3
+    100092: JNT_thruster10
+    100094: JNT_thruster10 1
+    100096: JNT_thruster10 2
+    100098: JNT_thruster10 3
+    100100: JNT_thruster11
+    100102: JNT_thruster11 1
+    100104: JNT_thruster11 2
+    100106: JNT_thruster11 3
+    100108: JNT_thruster12
+    100110: JNT_thruster12 1
+    100112: JNT_thruster12 2
+    100114: JNT_thruster12 3
+    100116: JNT_thruster13
+    100118: JNT_thruster13 1
+    100120: JNT_thruster13 2
+    100122: JNT_thruster13 3
+    100124: JNT_thruster14
+    100126: JNT_thruster14 1
+    100128: JNT_thruster14 2
+    100130: JNT_thruster14 3
+    100132: JNT_thruster15
+    100134: JNT_thruster15 1
+    100136: JNT_thruster15 2
+    100138: JNT_thruster15 3
+    100140: JNT_thruster16
+    100142: JNT_thruster16 1
+    100144: JNT_thruster16 2
+    100146: JNT_thruster16 3
+    100148: JNT_thruster2
+    100150: JNT_thruster2 1
+    100152: JNT_thruster2 2
+    100154: JNT_thruster2 3
+    100156: JNT_thruster3
+    100158: JNT_thruster3 1
+    100160: JNT_thruster3 2
+    100162: JNT_thruster3 3
+    100164: JNT_thruster4
+    100166: JNT_thruster4 1
+    100168: JNT_thruster4 2
+    100170: JNT_thruster4 3
+    100172: JNT_thruster5
+    100174: JNT_thruster5 1
+    100176: JNT_thruster5 2
+    100178: JNT_thruster5 3
+    100180: JNT_thruster6
+    100182: JNT_thruster6 1
+    100184: JNT_thruster6 2
+    100186: JNT_thruster6 3
+    100188: JNT_thruster7
+    100190: JNT_thruster7 1
+    100192: JNT_thruster7 2
+    100194: JNT_thruster7 3
+    100196: JNT_thruster8
+    100198: JNT_thruster8 1
+    100200: JNT_thruster8 2
+    100202: JNT_thruster8 3
+    100204: JNT_thruster9
+    100206: JNT_thruster9 1
+    100208: JNT_thruster9 2
+    100210: JNT_thruster9 3
+    100212: knee_left
+    100214: knee_left 1
+    100216: knee_piston_rod_left
+    100218: knee_piston_rod_right
+    100220: knee_piston_sleeve_left
+    100222: knee_piston_sleeve_right
+    100224: knee_right
+    100226: knee_right 1
+    100228: left_low_thrust_vector
+    100230: left_low_thrust_vector_offset
+    100232: left_up_thrust_vector
+    100234: left_up_thrust_vector_offset
+    100236: leg_left
+    100238: leg_left 1
+    100240: leg_piston_rod_left
+    100242: leg_piston_rod_right
+    100244: leg_piston_sleeve_left
+    100246: leg_piston_sleeve_right
+    100248: leg_right
+    100250: leg_right 1
+    100252: Mesh
+    100254: //RootNode
+    100256: neck
+    100258: nurbsCircle1
+    100260: nurbsCircle1 1
+    100262: nurbsCircle2
+    100264: nurbsCircle3
+    100266: nurbsCircle4
+    100268: nurbsCircle4 1
+    100270: nurbsCircle5
+    100272: nurbsCircle5 1
+    100274: nurbsCircle5 2
+    100276: nurbsCircle5 3
+    100278: nurbsCircle5 4
+    100280: nurbsCircle5 5
+    100282: nurbsCircle5 6
+    100284: nurbsCircle5 7
+    100286: polySurface208
+    100288: polySurface213
+    100290: polySurface281
+    100292: polySurface284
+    100294: polySurface288
+    100296: polySurface289
+    100298: polySurface449
+    100300: polySurface450
+    100302: polySurface451
+    100304: polySurface452
+    100306: polySurface453
+    100308: polySurface454
+    100310: polySurface455
+    100312: polySurface456
+    100314: polySurface457
+    100316: polySurface458
+    100318: polySurface459
+    100320: polySurface460
+    100322: polySurface461
+    100324: polySurface462
+    100326: polySurface463
+    100328: polySurface464
+    100330: polySurface465
+    100332: polySurface466
+    100334: polySurface467
+    100336: polySurface468
+    100338: polySurface469
+    100340: polySurface470
+    100342: polySurface471
+    100344: polySurface472
+    100346: polySurface473
+    100348: polySurface474
+    100350: polySurface475
+    100352: polySurface476
+    100354: polySurface477
+    100356: polySurface478
+    100358: polySurface479
+    100360: polySurface480
+    100362: polySurface481
+    100364: polySurface483
+    100366: polySurface484
+    100368: polySurface485
+    100370: polySurface486
+    100372: polySurface487
+    100374: polySurface488
+    100376: polySurface489
+    100378: polySurface490
+    100380: polySurface495
+    100382: polySurface499
+    100384: polySurface500
+    100386: polySurface501
+    100388: polySurface502
+    100390: polySurface503
+    100392: polySurface504
+    100394: polySurface505
+    100396: polySurface506
+    100398: polySurface507
+    100400: polySurface508
+    100402: polySurface509
+    100404: polySurface510
+    100406: polySurface511
+    100408: polySurface512
+    100410: polySurface513
+    100412: polySurface514
+    100414: polySurface515
+    100416: polySurface516
+    100418: polySurface517
+    100420: polySurface518
+    100422: polySurface519
+    100424: polySurface520
+    100426: polySurface521
+    100428: polySurface522
+    100430: polySurface523
+    100432: polySurface524
+    100434: polySurface525
+    100436: polySurface526
+    100438: right_low_thrust_vector
+    100440: right_low_thrust_vector_offset
+    100442: right_up_thrust_vector
+    100444: right_up_thrust_vector_offset
+    100446: shoulder_left
+    100448: shoulder_left 1
+    100450: shoulder_right
+    100452: shoulder_right 1
+    100454: thigh_left
+    100456: thigh_left 1
+    100458: thigh_right
+    100460: thigh_right 1
+    100462: thruster_left_low
+    100464: thruster_left_up
+    100466: thruster_right_low
+    100468: thruster_right_up
+    100470: weapon_left
+    100472: weapon_mount_left
+    100474: weapon_mount_right
+    100476: weapon_right
+    400000: arm_left
+    400002: arm_pivot_left
+    400004: arm_pivot_right
+    400006: arm_right
+    400008: arm_swing_left
+    400010: arm_swing_right
+    400012: booster_left
+    400014: booster_left 1
+    400016: booster_pack_left
+    400018: booster_pack_right
+    400020: booster_right
+    400022: booster_right 1
+    400024: core
+    400026: CTRL
+    400028: CTRL_foot_left
+    400030: CTRL_foot_right
+    400032: CTRL_hull
+    400034: CTRL_knee_vector_left
+    400036: CTRL_knee_vector_right
+    400038: CTRL_leg_seivel_right
+    400040: CTRL_leg_swivel_left
+    400042: CTRL_root
+    400044: foot_left
+    400046: foot_left 1
+    400048: foot_piston_rod_left
+    400050: foot_piston_rod_right
+    400052: foot_piston_sleeve_left
+    400054: foot_piston_sleeve_right
+    400056: foot_right
+    400058: foot_right 1
+    400060: head_left
+    400062: heel_left
+    400064: heel_left 1
+    400066: heel_right
+    400068: heel_right 1
+    400070: hip
+    400072: hip 1
+    400074: hull
+    400076: hull 1
+    400078: ik_leg_left
+    400080: ik_leg_right
+    400082: JNT
+    400084: JNT_thruster1
+    400086: JNT_thruster1 1
+    400088: JNT_thruster1 2
+    400090: JNT_thruster1 3
+    400092: JNT_thruster10
+    400094: JNT_thruster10 1
+    400096: JNT_thruster10 2
+    400098: JNT_thruster10 3
+    400100: JNT_thruster11
+    400102: JNT_thruster11 1
+    400104: JNT_thruster11 2
+    400106: JNT_thruster11 3
+    400108: JNT_thruster12
+    400110: JNT_thruster12 1
+    400112: JNT_thruster12 2
+    400114: JNT_thruster12 3
+    400116: JNT_thruster13
+    400118: JNT_thruster13 1
+    400120: JNT_thruster13 2
+    400122: JNT_thruster13 3
+    400124: JNT_thruster14
+    400126: JNT_thruster14 1
+    400128: JNT_thruster14 2
+    400130: JNT_thruster14 3
+    400132: JNT_thruster15
+    400134: JNT_thruster15 1
+    400136: JNT_thruster15 2
+    400138: JNT_thruster15 3
+    400140: JNT_thruster16
+    400142: JNT_thruster16 1
+    400144: JNT_thruster16 2
+    400146: JNT_thruster16 3
+    400148: JNT_thruster2
+    400150: JNT_thruster2 1
+    400152: JNT_thruster2 2
+    400154: JNT_thruster2 3
+    400156: JNT_thruster3
+    400158: JNT_thruster3 1
+    400160: JNT_thruster3 2
+    400162: JNT_thruster3 3
+    400164: JNT_thruster4
+    400166: JNT_thruster4 1
+    400168: JNT_thruster4 2
+    400170: JNT_thruster4 3
+    400172: JNT_thruster5
+    400174: JNT_thruster5 1
+    400176: JNT_thruster5 2
+    400178: JNT_thruster5 3
+    400180: JNT_thruster6
+    400182: JNT_thruster6 1
+    400184: JNT_thruster6 2
+    400186: JNT_thruster6 3
+    400188: JNT_thruster7
+    400190: JNT_thruster7 1
+    400192: JNT_thruster7 2
+    400194: JNT_thruster7 3
+    400196: JNT_thruster8
+    400198: JNT_thruster8 1
+    400200: JNT_thruster8 2
+    400202: JNT_thruster8 3
+    400204: JNT_thruster9
+    400206: JNT_thruster9 1
+    400208: JNT_thruster9 2
+    400210: JNT_thruster9 3
+    400212: knee_left
+    400214: knee_left 1
+    400216: knee_piston_rod_left
+    400218: knee_piston_rod_right
+    400220: knee_piston_sleeve_left
+    400222: knee_piston_sleeve_right
+    400224: knee_right
+    400226: knee_right 1
+    400228: left_low_thrust_vector
+    400230: left_low_thrust_vector_offset
+    400232: left_up_thrust_vector
+    400234: left_up_thrust_vector_offset
+    400236: leg_left
+    400238: leg_left 1
+    400240: leg_piston_rod_left
+    400242: leg_piston_rod_right
+    400244: leg_piston_sleeve_left
+    400246: leg_piston_sleeve_right
+    400248: leg_right
+    400250: leg_right 1
+    400252: Mesh
+    400254: //RootNode
+    400256: neck
+    400258: nurbsCircle1
+    400260: nurbsCircle1 1
+    400262: nurbsCircle2
+    400264: nurbsCircle3
+    400266: nurbsCircle4
+    400268: nurbsCircle4 1
+    400270: nurbsCircle5
+    400272: nurbsCircle5 1
+    400274: nurbsCircle5 2
+    400276: nurbsCircle5 3
+    400278: nurbsCircle5 4
+    400280: nurbsCircle5 5
+    400282: nurbsCircle5 6
+    400284: nurbsCircle5 7
+    400286: polySurface208
+    400288: polySurface213
+    400290: polySurface281
+    400292: polySurface284
+    400294: polySurface288
+    400296: polySurface289
+    400298: polySurface449
+    400300: polySurface450
+    400302: polySurface451
+    400304: polySurface452
+    400306: polySurface453
+    400308: polySurface454
+    400310: polySurface455
+    400312: polySurface456
+    400314: polySurface457
+    400316: polySurface458
+    400318: polySurface459
+    400320: polySurface460
+    400322: polySurface461
+    400324: polySurface462
+    400326: polySurface463
+    400328: polySurface464
+    400330: polySurface465
+    400332: polySurface466
+    400334: polySurface467
+    400336: polySurface468
+    400338: polySurface469
+    400340: polySurface470
+    400342: polySurface471
+    400344: polySurface472
+    400346: polySurface473
+    400348: polySurface474
+    400350: polySurface475
+    400352: polySurface476
+    400354: polySurface477
+    400356: polySurface478
+    400358: polySurface479
+    400360: polySurface480
+    400362: polySurface481
+    400364: polySurface483
+    400366: polySurface484
+    400368: polySurface485
+    400370: polySurface486
+    400372: polySurface487
+    400374: polySurface488
+    400376: polySurface489
+    400378: polySurface490
+    400380: polySurface495
+    400382: polySurface499
+    400384: polySurface500
+    400386: polySurface501
+    400388: polySurface502
+    400390: polySurface503
+    400392: polySurface504
+    400394: polySurface505
+    400396: polySurface506
+    400398: polySurface507
+    400400: polySurface508
+    400402: polySurface509
+    400404: polySurface510
+    400406: polySurface511
+    400408: polySurface512
+    400410: polySurface513
+    400412: polySurface514
+    400414: polySurface515
+    400416: polySurface516
+    400418: polySurface517
+    400420: polySurface518
+    400422: polySurface519
+    400424: polySurface520
+    400426: polySurface521
+    400428: polySurface522
+    400430: polySurface523
+    400432: polySurface524
+    400434: polySurface525
+    400436: polySurface526
+    400438: right_low_thrust_vector
+    400440: right_low_thrust_vector_offset
+    400442: right_up_thrust_vector
+    400444: right_up_thrust_vector_offset
+    400446: shoulder_left
+    400448: shoulder_left 1
+    400450: shoulder_right
+    400452: shoulder_right 1
+    400454: thigh_left
+    400456: thigh_left 1
+    400458: thigh_right
+    400460: thigh_right 1
+    400462: thruster_left_low
+    400464: thruster_left_up
+    400466: thruster_right_low
+    400468: thruster_right_up
+    400470: weapon_left
+    400472: weapon_mount_left
+    400474: weapon_mount_right
+    400476: weapon_right
+    2100000: mech
+    4300000: knee_left
+    4300002: foot_left
+    4300004: heel_left
+    4300006: thigh_left
+    4300008: weapon_mount_left
+    4300010: booster_pack_left
+    4300012: leg_left
+    4300014: hip
+    4300016: arm_left
+    4300018: shoulder_left
+    4300020: head_left
+    4300022: hull
+    4300024: shoulder_right
+    4300026: booster_pack_right
+    4300028: weapon_mount_right
+    4300030: arm_right
+    4300032: polySurface483
+    4300034: polySurface481
+    4300036: polySurface485
+    4300038: polySurface484
+    4300040: polySurface476
+    4300042: polySurface473
+    4300044: polySurface519
+    4300046: polySurface518
+    4300048: polySurface520
+    4300050: polySurface467
+    4300052: polySurface468
+    4300054: polySurface474
+    4300056: polySurface477
+    4300058: polySurface463
+    4300060: polySurface464
+    4300062: polySurface462
+    4300064: polySurface472
+    4300066: polySurface471
+    4300068: polySurface475
+    4300070: polySurface459
+    4300072: polySurface460
+    4300074: polySurface499
+    4300076: polySurface495
+    4300078: polySurface501
+    4300080: polySurface500
+    4300082: polySurface450
+    4300084: polySurface461
+    4300086: polySurface479
+    4300088: polySurface480
+    4300090: polySurface449
+    4300092: polySurface208
+    4300094: polySurface465
+    4300096: polySurface466
+    4300098: polySurface453
+    4300100: polySurface454
+    4300102: polySurface503
+    4300104: polySurface502
+    4300106: polySurface506
+    4300108: polySurface505
+    4300110: polySurface504
+    4300112: polySurface455
+    4300114: polySurface456
+    4300116: polySurface508
+    4300118: polySurface507
+    4300120: polySurface510
+    4300122: polySurface509
+    4300124: polySurface513
+    4300126: polySurface512
+    4300128: polySurface511
+    4300130: polySurface515
+    4300132: polySurface514
+    4300134: polySurface517
+    4300136: polySurface516
+    4300138: polySurface281
+    4300140: polySurface284
+    4300142: polySurface289
+    4300144: polySurface451
+    4300146: polySurface458
+    4300148: polySurface457
+    4300150: polySurface478
+    4300152: polySurface452
+    4300154: polySurface469
+    4300156: polySurface470
+    4300158: polySurface487
+    4300160: polySurface486
+    4300162: polySurface490
+    4300164: polySurface489
+    4300166: polySurface488
+    4300168: polySurface288
+    4300170: polySurface213
+    4300172: heel_right
+    4300174: foot_right
+    4300176: knee_right
+    4300178: thigh_right
+    4300180: polySurface521
+    4300182: polySurface522
+    4300184: leg_right
+    4300186: polySurface523
+    4300188: polySurface524
+    4300190: polySurface525
+    4300192: polySurface526
+    7400000: static_pose
+    7400002: Walk_Cycle
+    7400004: stepping
+    7400006: ForwardJump_anticipationn
+    7400008: ForwardJump_Launch
+    7400010: ForwardJump_IdleMidAir
+    7400012: ForwardJump_Land
+    7400014: ForwardJump_FollowThrough
+    7400016: Death
+    9500000: //RootNode
+    13700000: arm_left
+    13700002: arm_right
+    13700004: booster_pack_left
+    13700006: booster_pack_right
+    13700008: foot_left
+    13700010: foot_right
+    13700012: head_left
+    13700014: heel_left
+    13700016: heel_right
+    13700018: hip
+    13700020: hull 1
+    13700022: knee_left
+    13700024: knee_right
+    13700026: leg_left
+    13700028: leg_right
+    13700030: polySurface208
+    13700032: polySurface213
+    13700034: polySurface281
+    13700036: polySurface284
+    13700038: polySurface288
+    13700040: polySurface289
+    13700042: polySurface449
+    13700044: polySurface450
+    13700046: polySurface451
+    13700048: polySurface452
+    13700050: polySurface453
+    13700052: polySurface454
+    13700054: polySurface455
+    13700056: polySurface456
+    13700058: polySurface457
+    13700060: polySurface458
+    13700062: polySurface459
+    13700064: polySurface460
+    13700066: polySurface461
+    13700068: polySurface462
+    13700070: polySurface463
+    13700072: polySurface464
+    13700074: polySurface465
+    13700076: polySurface466
+    13700078: polySurface467
+    13700080: polySurface468
+    13700082: polySurface469
+    13700084: polySurface470
+    13700086: polySurface471
+    13700088: polySurface472
+    13700090: polySurface473
+    13700092: polySurface474
+    13700094: polySurface475
+    13700096: polySurface476
+    13700098: polySurface477
+    13700100: polySurface478
+    13700102: polySurface479
+    13700104: polySurface480
+    13700106: polySurface481
+    13700108: polySurface483
+    13700110: polySurface484
+    13700112: polySurface485
+    13700114: polySurface486
+    13700116: polySurface487
+    13700118: polySurface488
+    13700120: polySurface489
+    13700122: polySurface490
+    13700124: polySurface495
+    13700126: polySurface499
+    13700128: polySurface500
+    13700130: polySurface501
+    13700132: polySurface502
+    13700134: polySurface503
+    13700136: polySurface504
+    13700138: polySurface505
+    13700140: polySurface506
+    13700142: polySurface507
+    13700144: polySurface508
+    13700146: polySurface509
+    13700148: polySurface510
+    13700150: polySurface511
+    13700152: polySurface512
+    13700154: polySurface513
+    13700156: polySurface514
+    13700158: polySurface515
+    13700160: polySurface516
+    13700162: polySurface517
+    13700164: polySurface518
+    13700166: polySurface519
+    13700168: polySurface520
+    13700170: polySurface521
+    13700172: polySurface522
+    13700174: polySurface523
+    13700176: polySurface524
+    13700178: polySurface525
+    13700180: polySurface526
+    13700182: shoulder_left
+    13700184: shoulder_right
+    13700186: thigh_left
+    13700188: thigh_right
+    13700190: weapon_mount_left
+    13700192: weapon_mount_right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mech
+    second: {fileID: 2100000, guid: 997c719b03185de47be2667c6832acb7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: static_pose
+      takeName: static_pose
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_Cycle
+      takeName: Walk_Cycle
+      firstFrame: 10
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stepping
+      takeName: stepping
+      firstFrame: 140
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ForwardJump_anticipationn
+      takeName: ForwardJump_anticipationn
+      firstFrame: 270
+      lastFrame: 285
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ForwardJump_Launch
+      takeName: ForwardJump_Launch
+      firstFrame: 285
+      lastFrame: 315
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ForwardJump_IdleMidAir
+      takeName: ForwardJump_IdleMidAir
+      firstFrame: 315
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ForwardJump_Land
+      takeName: ForwardJump_Land
+      firstFrame: 320
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ForwardJump_FollowThrough
+      takeName: ForwardJump_FollowThrough
+      firstFrame: 370
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      firstFrame: 400
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

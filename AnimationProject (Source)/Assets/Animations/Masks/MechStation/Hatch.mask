@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hatch
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: mechStationGeo
+    m_Weight: 0
+  - m_Path: root
+    m_Weight: 0
+  - m_Path: root/barrier
+    m_Weight: 0
+  - m_Path: root/ceiling
+    m_Weight: 0
+  - m_Path: root/ceiling/ceilingGear
+    m_Weight: 0
+  - m_Path: root/charger_Module
+    m_Weight: 0
+  - m_Path: root/charger_Module/charger_Extend
+    m_Weight: 0
+  - m_Path: root/charger_Module/charger_Extend/charger_Turn
+    m_Weight: 0
+  - m_Path: root/elevator
+    m_Weight: 0
+  - m_Path: root/elevator/ballDoorA
+    m_Weight: 1
+  - m_Path: root/elevator/ballDoorB
+    m_Weight: 1
+  - m_Path: root/elevator/gear1A
+    m_Weight: 0
+  - m_Path: root/elevator/gear1B
+    m_Weight: 0
+  - m_Path: root/elevator/gear2A
+    m_Weight: 0
+  - m_Path: root/refuelerA_Base
+    m_Weight: 0
+  - m_Path: root/refuelerA_Base/refuelerA_Probe
+    m_Weight: 0
+  - m_Path: root/refuelerB_Base
+    m_Weight: 0
+  - m_Path: root/refuelerB_Base/refuelerB_Probe
+    m_Weight: 0

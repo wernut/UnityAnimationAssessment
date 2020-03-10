@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 6ed16e95b8f0bc24aa87c5548a0ef560
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: arm_pivot_left
+    100004: arm_pivot_right
+    100006: arm_swing_left
+    100008: arm_swing_right
+    100010: booster_left
+    100012: booster_left 1
+    100014: booster_right
+    100016: booster_right 1
+    100018: core
+    100020: CTRL
+    100022: CTRL_foot_left
+    100024: CTRL_foot_right
+    100026: CTRL_hull
+    100028: CTRL_knee_vector_left
+    100030: CTRL_knee_vector_right
+    100032: CTRL_leg_seivel_right
+    100034: CTRL_leg_swivel_left
+    100036: CTRL_root
+    100038: foot_left
+    100040: foot_piston_rod_left
+    100042: foot_piston_rod_right
+    100044: foot_piston_sleeve_left
+    100046: foot_piston_sleeve_right
+    100048: foot_right
+    100050: heel_left
+    100052: heel_right
+    100054: hip
+    100056: hull
+    100058: ik_leg_left
+    100060: ik_leg_right
+    100062: JNT
+    100064: JNT_thruster1
+    100066: JNT_thruster1 1
+    100068: JNT_thruster1 2
+    100070: JNT_thruster1 3
+    100072: JNT_thruster10
+    100074: JNT_thruster10 1
+    100076: JNT_thruster10 2
+    100078: JNT_thruster10 3
+    100080: JNT_thruster11
+    100082: JNT_thruster11 1
+    100084: JNT_thruster11 2
+    100086: JNT_thruster11 3
+    100088: JNT_thruster12
+    100090: JNT_thruster12 1
+    100092: JNT_thruster12 2
+    100094: JNT_thruster12 3
+    100096: JNT_thruster13
+    100098: JNT_thruster13 1
+    100100: JNT_thruster13 2
+    100102: JNT_thruster13 3
+    100104: JNT_thruster14
+    100106: JNT_thruster14 1
+    100108: JNT_thruster14 2
+    100110: JNT_thruster14 3
+    100112: JNT_thruster15
+    100114: JNT_thruster15 1
+    100116: JNT_thruster15 2
+    100118: JNT_thruster15 3
+    100120: JNT_thruster16
+    100122: JNT_thruster16 1
+    100124: JNT_thruster16 2
+    100126: JNT_thruster16 3
+    100128: JNT_thruster2
+    100130: JNT_thruster2 1
+    100132: JNT_thruster2 2
+    100134: JNT_thruster2 3
+    100136: JNT_thruster3
+    100138: JNT_thruster3 1
+    100140: JNT_thruster3 2
+    100142: JNT_thruster3 3
+    100144: JNT_thruster4
+    100146: JNT_thruster4 1
+    100148: JNT_thruster4 2
+    100150: JNT_thruster4 3
+    100152: JNT_thruster5
+    100154: JNT_thruster5 1
+    100156: JNT_thruster5 2
+    100158: JNT_thruster5 3
+    100160: JNT_thruster6
+    100162: JNT_thruster6 1
+    100164: JNT_thruster6 2
+    100166: JNT_thruster6 3
+    100168: JNT_thruster7
+    100170: JNT_thruster7 1
+    100172: JNT_thruster7 2
+    100174: JNT_thruster7 3
+    100176: JNT_thruster8
+    100178: JNT_thruster8 1
+    100180: JNT_thruster8 2
+    100182: JNT_thruster8 3
+    100184: JNT_thruster9
+    100186: JNT_thruster9 1
+    100188: JNT_thruster9 2
+    100190: JNT_thruster9 3
+    100192: knee_left
+    100194: knee_piston_rod_left
+    100196: knee_piston_rod_right
+    100198: knee_piston_sleeve_left
+    100200: knee_piston_sleeve_right
+    100202: knee_right
+    100204: left_low_thrust_vector
+    100206: left_low_thrust_vector_offset
+    100208: left_up_thrust_vector
+    100210: left_up_thrust_vector_offset
+    100212: leg_left
+    100214: leg_piston_rod_left
+    100216: leg_piston_rod_right
+    100218: leg_piston_sleeve_left
+    100220: leg_piston_sleeve_right
+    100222: leg_right
+    100224: neck
+    100226: nurbsCircle1
+    100228: nurbsCircle1 1
+    100230: nurbsCircle2
+    100232: nurbsCircle3
+    100234: nurbsCircle4
+    100236: nurbsCircle4 1
+    100238: nurbsCircle5
+    100240: nurbsCircle5 1
+    100242: nurbsCircle5 2
+    100244: nurbsCircle5 3
+    100246: nurbsCircle5 4
+    100248: nurbsCircle5 5
+    100250: nurbsCircle5 6
+    100252: nurbsCircle5 7
+    100254: right_low_thrust_vector
+    100256: right_low_thrust_vector_offset
+    100258: right_up_thrust_vector
+    100260: right_up_thrust_vector_offset
+    100262: shoulder_left
+    100264: shoulder_right
+    100266: thigh_left
+    100268: thigh_right
+    100270: thruster_left_low
+    100272: thruster_left_up
+    100274: thruster_right_low
+    100276: thruster_right_up
+    100278: weapon_left
+    100280: weapon_right
+    400000: //RootNode
+    400002: arm_pivot_left
+    400004: arm_pivot_right
+    400006: arm_swing_left
+    400008: arm_swing_right
+    400010: booster_left
+    400012: booster_left 1
+    400014: booster_right
+    400016: booster_right 1
+    400018: core
+    400020: CTRL
+    400022: CTRL_foot_left
+    400024: CTRL_foot_right
+    400026: CTRL_hull
+    400028: CTRL_knee_vector_left
+    400030: CTRL_knee_vector_right
+    400032: CTRL_leg_seivel_right
+    400034: CTRL_leg_swivel_left
+    400036: CTRL_root
+    400038: foot_left
+    400040: foot_piston_rod_left
+    400042: foot_piston_rod_right
+    400044: foot_piston_sleeve_left
+    400046: foot_piston_sleeve_right
+    400048: foot_right
+    400050: heel_left
+    400052: heel_right
+    400054: hip
+    400056: hull
+    400058: ik_leg_left
+    400060: ik_leg_right
+    400062: JNT
+    400064: JNT_thruster1
+    400066: JNT_thruster1 1
+    400068: JNT_thruster1 2
+    400070: JNT_thruster1 3
+    400072: JNT_thruster10
+    400074: JNT_thruster10 1
+    400076: JNT_thruster10 2
+    400078: JNT_thruster10 3
+    400080: JNT_thruster11
+    400082: JNT_thruster11 1
+    400084: JNT_thruster11 2
+    400086: JNT_thruster11 3
+    400088: JNT_thruster12
+    400090: JNT_thruster12 1
+    400092: JNT_thruster12 2
+    400094: JNT_thruster12 3
+    400096: JNT_thruster13
+    400098: JNT_thruster13 1
+    400100: JNT_thruster13 2
+    400102: JNT_thruster13 3
+    400104: JNT_thruster14
+    400106: JNT_thruster14 1
+    400108: JNT_thruster14 2
+    400110: JNT_thruster14 3
+    400112: JNT_thruster15
+    400114: JNT_thruster15 1
+    400116: JNT_thruster15 2
+    400118: JNT_thruster15 3
+    400120: JNT_thruster16
+    400122: JNT_thruster16 1
+    400124: JNT_thruster16 2
+    400126: JNT_thruster16 3
+    400128: JNT_thruster2
+    400130: JNT_thruster2 1
+    400132: JNT_thruster2 2
+    400134: JNT_thruster2 3
+    400136: JNT_thruster3
+    400138: JNT_thruster3 1
+    400140: JNT_thruster3 2
+    400142: JNT_thruster3 3
+    400144: JNT_thruster4
+    400146: JNT_thruster4 1
+    400148: JNT_thruster4 2
+    400150: JNT_thruster4 3
+    400152: JNT_thruster5
+    400154: JNT_thruster5 1
+    400156: JNT_thruster5 2
+    400158: JNT_thruster5 3
+    400160: JNT_thruster6
+    400162: JNT_thruster6 1
+    400164: JNT_thruster6 2
+    400166: JNT_thruster6 3
+    400168: JNT_thruster7
+    400170: JNT_thruster7 1
+    400172: JNT_thruster7 2
+    400174: JNT_thruster7 3
+    400176: JNT_thruster8
+    400178: JNT_thruster8 1
+    400180: JNT_thruster8 2
+    400182: JNT_thruster8 3
+    400184: JNT_thruster9
+    400186: JNT_thruster9 1
+    400188: JNT_thruster9 2
+    400190: JNT_thruster9 3
+    400192: knee_left
+    400194: knee_piston_rod_left
+    400196: knee_piston_rod_right
+    400198: knee_piston_sleeve_left
+    400200: knee_piston_sleeve_right
+    400202: knee_right
+    400204: left_low_thrust_vector
+    400206: left_low_thrust_vector_offset
+    400208: left_up_thrust_vector
+    400210: left_up_thrust_vector_offset
+    400212: leg_left
+    400214: leg_piston_rod_left
+    400216: leg_piston_rod_right
+    400218: leg_piston_sleeve_left
+    400220: leg_piston_sleeve_right
+    400222: leg_right
+    400224: neck
+    400226: nurbsCircle1
+    400228: nurbsCircle1 1
+    400230: nurbsCircle2
+    400232: nurbsCircle3
+    400234: nurbsCircle4
+    400236: nurbsCircle4 1
+    400238: nurbsCircle5
+    400240: nurbsCircle5 1
+    400242: nurbsCircle5 2
+    400244: nurbsCircle5 3
+    400246: nurbsCircle5 4
+    400248: nurbsCircle5 5
+    400250: nurbsCircle5 6
+    400252: nurbsCircle5 7
+    400254: right_low_thrust_vector
+    400256: right_low_thrust_vector_offset
+    400258: right_up_thrust_vector
+    400260: right_up_thrust_vector_offset
+    400262: shoulder_left
+    400264: shoulder_right
+    400266: thigh_left
+    400268: thigh_right
+    400270: thruster_left_low
+    400272: thruster_left_up
+    400274: thruster_right_low
+    400276: thruster_right_up
+    400278: weapon_left
+    400280: weapon_right
+    7400000: Start_Up
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5c430c3549c8b084f8bfdc5d0242b951,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
